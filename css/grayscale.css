@@ -261,7 +261,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.Knowledge-section {
+.Knowledge {
    display: table;
     width: 100%;
     height: auto;
@@ -284,14 +284,14 @@ a:focus {
     font-size: 18px;
 }
 
-@media(min-width:768px) {
+@media(min-width:708px) {
     .Knowledge {
         height: 100%;
         padding: 0;
     }
 
     .Knowledge .Knowledge-body .Knowledge-text {
-        font-size: 106px;
+        font-size: 36px;
     }
 }
 #map {
